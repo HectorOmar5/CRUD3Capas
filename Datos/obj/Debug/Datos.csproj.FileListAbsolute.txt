@@ -1,0 +1,17 @@
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\Datos.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\Datos.pdb
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\obj\Debug\Datos.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\obj\Debug\Datos.pdb
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\Entidades.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\Entidades.pdb
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Tichs\source\C#\CRUD3Capas\Datos\bin\Debug\System.Security.Principal.Windows.xml
